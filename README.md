@@ -6,7 +6,7 @@
 
 ![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014681.jpg "情報工学科")
 
-### :star:　３つのコース　:star:
+### :star: ３つのコース :star:
 
 1. [システムエンジニアリングコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor01 "sisutemuenjinia")
 
